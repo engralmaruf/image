@@ -1,0 +1,54 @@
+{
+ "layout": "calls",
+ "theme": "ink",
+ "kicker": "YOUR AI TEAM · 11 AGENTS",
+ "titleA": "Your Real Estate",
+ "titleB": "AI Team.",
+ "sub": "One call. Every agent has a job. You approve what goes out.",
+ "keyword": "TEAM",
+ "data": {
+  "callTitle": "Call on today's new leads",
+  "tiles": [
+   {
+    "name": "You (Approve)"
+   },
+   {
+    "name": "Claude (Responder)"
+   },
+   {
+    "name": "Claude (Qualifier)"
+   },
+   {
+    "name": "Claude (Showings)"
+   },
+   {
+    "name": "Claude (Listings)"
+   },
+   {
+    "name": "Claude (Buyer Match)"
+   },
+   {
+    "name": "Claude (Follow-Up)"
+   },
+   {
+    "name": "Claude (CRM)"
+   },
+   {
+    "name": "Claude (Reviews)"
+   },
+   {
+    "name": "Claude (Open House)"
+   },
+   {
+    "name": "Claude (Reports)"
+   },
+   {
+    "name": "Claude (Social)"
+   }
+  ],
+  "chat": {
+   "from": "You",
+   "text": "Team, new enquiries are in. Draft the replies for my approval."
+  }
+ }
+}

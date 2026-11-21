@@ -1,0 +1,73 @@
+{
+ "layout": "folders",
+ "theme": "sky",
+ "kicker": "SKILL LIBRARY · 20 SKILLS",
+ "titleA": "20 Claude Skills",
+ "titleB": "for Law Firms.",
+ "sub": "Drafts for attorney review. Nothing goes out without you.",
+ "keyword": "LAW",
+ "data": {
+  "items": [
+   {
+    "t": "Intake Screener"
+   },
+   {
+    "t": "Conflict Check Prep"
+   },
+   {
+    "t": "Case Summarizer"
+   },
+   {
+    "t": "Client Update Writer"
+   },
+   {
+    "t": "Deadline Tracker"
+   },
+   {
+    "t": "Contract Reviewer"
+   },
+   {
+    "t": "Demand Letter Drafter"
+   },
+   {
+    "t": "Discovery Organizer"
+   },
+   {
+    "t": "Billing Notes Writer"
+   },
+   {
+    "t": "Referral Asker"
+   },
+   {
+    "t": "Review Requester"
+   },
+   {
+    "t": "Consult Booker"
+   },
+   {
+    "t": "Follow-Up Writer"
+   },
+   {
+    "t": "Document Chaser"
+   },
+   {
+    "t": "Meeting Notes"
+   },
+   {
+    "t": "Retainer Explainer"
+   },
+   {
+    "t": "Intake FAQ Bot"
+   },
+   {
+    "t": "Court Date Reminder"
+   },
+   {
+    "t": "Newsletter Writer"
+   },
+   {
+    "t": "Testimonial Asker"
+   }
+  ]
+ }
+}

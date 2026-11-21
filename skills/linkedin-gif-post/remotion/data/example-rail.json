@@ -1,0 +1,37 @@
+{
+ "layout": "rail",
+ "theme": "sky",
+ "kicker": "COMPLETE SYSTEM · 6 AGENTS",
+ "titleA": "The Fitness Coach",
+ "titleB": "Lead-to-Client System.",
+ "sub": "From first DM to a paying client. You approve every message.",
+ "keyword": "COACH",
+ "data": {
+  "items": [
+   {
+    "t": "DM Catcher",
+    "s": "Every new DM and form lands in one place"
+   },
+   {
+    "t": "Fit Checker",
+    "s": "Asks goals and budget, scores the fit"
+   },
+   {
+    "t": "Call Booker",
+    "s": "Offers open slots, books the intro call"
+   },
+   {
+    "t": "Reminder Agent",
+    "s": "Reminders so fewer calls go empty"
+   },
+   {
+    "t": "Call Prep",
+    "s": "One-page brief before you join"
+   },
+   {
+    "t": "Follow-Up Writer",
+    "s": "Drafts the follow-up for every lead"
+   }
+  ]
+ }
+}

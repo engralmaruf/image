@@ -1,0 +1,55 @@
+{
+ "layout": "wheel",
+ "theme": "ink",
+ "kicker": "RUNS EVERY DAY",
+ "titleA": "The Construction",
+ "titleB": "Quote Desk.",
+ "sub": "Runs the same day, every day. You approve what goes out.",
+ "keyword": "QUOTE",
+ "data": {
+  "centerLabel": "07:00",
+  "note": "You approve every quote before it goes out",
+  "steps": [
+   {
+    "time": "07:00",
+    "t": "Check new enquiries",
+    "done": "enquiries sorted"
+   },
+   {
+    "time": "08:00",
+    "t": "Collect job details",
+    "done": "details gathered"
+   },
+   {
+    "time": "09:00",
+    "t": "Draft the quotes",
+    "done": "drafts for review"
+   },
+   {
+    "time": "11:00",
+    "t": "Sort replies",
+    "done": "replies sorted"
+   },
+   {
+    "time": "13:00",
+    "t": "Propose site visits",
+    "done": "times proposed"
+   },
+   {
+    "time": "15:00",
+    "t": "Follow up quotes",
+    "done": "follow-ups drafted"
+   },
+   {
+    "time": "17:00",
+    "t": "Update the CRM",
+    "done": "records updated"
+   },
+   {
+    "time": "18:00",
+    "t": "Send the day report",
+    "done": "report sent"
+   }
+  ]
+ }
+}

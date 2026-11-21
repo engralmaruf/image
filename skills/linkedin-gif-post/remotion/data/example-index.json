@@ -1,0 +1,139 @@
+{
+ "layout": "index",
+ "theme": "sky",
+ "kicker": "THE COMPLETE TOOLKIT \u00b7 24 TOOLS",
+ "titleA": "The Complete Claude",
+ "titleB": "Coach Toolkit.",
+ "sub": "24 agents, skills and templates for every part of a coaching business.",
+ "keyword": "COACH",
+ "data": {
+  "sections": [
+   {
+    "title": "Capture and Qualify",
+    "items": [
+     {
+      "t": "DM Catcher",
+      "d": "every DM in one place"
+     },
+     {
+      "t": "Lead Scorer",
+      "d": "who is a fit"
+     },
+     {
+      "t": "Intake Form",
+      "d": "asks the right things"
+     },
+     {
+      "t": "Goal Finder",
+      "d": "what they want"
+     }
+    ]
+   },
+   {
+    "title": "Book and Confirm",
+    "items": [
+     {
+      "t": "Call Booker",
+      "d": "books the intro call"
+     },
+     {
+      "t": "Reminder Agent",
+      "d": "fewer empty calls"
+     },
+     {
+      "t": "Calendar Sync",
+      "d": "no double booking"
+     },
+     {
+      "t": "Prep Brief",
+      "d": "one page per lead"
+     }
+    ]
+   },
+   {
+    "title": "Content and Trust",
+    "items": [
+     {
+      "t": "Post Planner",
+      "d": "30 days of ideas"
+     },
+     {
+      "t": "Hook Writer",
+      "d": "first lines that stop"
+     },
+     {
+      "t": "Story Bank",
+      "d": "your wins, written up"
+     },
+     {
+      "t": "Testimonial Ask",
+      "d": "at the right time"
+     }
+    ]
+   },
+   {
+    "title": "Sales Conversations",
+    "items": [
+     {
+      "t": "Objection Helper",
+      "d": "calm, honest replies"
+     },
+     {
+      "t": "Offer Builder",
+      "d": "one clear offer"
+     },
+     {
+      "t": "Follow-Up Writer",
+      "d": "never goes silent"
+     },
+     {
+      "t": "Payment Nudge",
+      "d": "gentle reminders"
+     }
+    ]
+   },
+   {
+    "title": "Client Delivery",
+    "items": [
+     {
+      "t": "Onboarding Flow",
+      "d": "welcome, day one"
+     },
+     {
+      "t": "Check-In Agent",
+      "d": "weekly client check"
+     },
+     {
+      "t": "Progress Notes",
+      "d": "kept up to date"
+     },
+     {
+      "t": "Renewal Ask",
+      "d": "before the end date"
+     }
+    ]
+   },
+   {
+    "title": "Reports",
+    "items": [
+     {
+      "t": "Weekly Summary",
+      "d": "one page, Friday"
+     },
+     {
+      "t": "Lead Source Log",
+      "d": "where leads come from"
+     },
+     {
+      "t": "Pipeline View",
+      "d": "every lead, every stage"
+     },
+     {
+      "t": "Task List",
+      "d": "what needs you"
+     }
+    ]
+   }
+  ]
+ }
+}

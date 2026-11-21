@@ -1,0 +1,49 @@
+{
+ "layout": "dashboard",
+ "theme": "ink",
+ "kicker": "ONE AI BACK OFFICE",
+ "titleA": "One Claude setup.",
+ "titleB": "Four businesses.",
+ "sub": "Illustrative view of the work Claude handles in the background.",
+ "keyword": "OFFICE",
+ "data": {
+  "cards": [
+   {
+    "name": "Online Coach",
+    "tag": "Coaching",
+    "tasks": [
+     "Replies to new DMs",
+     "Books intro calls",
+     "Sends reminders"
+    ]
+   },
+   {
+    "name": "Law Firm",
+    "tag": "Legal services",
+    "tasks": [
+     "Screens new intake",
+     "Drafts client updates",
+     "Chases documents"
+    ]
+   },
+   {
+    "name": "Real Estate",
+    "tag": "Agency",
+    "tasks": [
+     "Answers new enquiries",
+     "Schedules showings",
+     "Follows up buyers"
+    ]
+   },
+   {
+    "name": "Construction",
+    "tag": "Contractor",
+    "tasks": [
+     "Collects quote details",
+     "Drafts the quote",
+     "Chases the reply"
+    ]
+   }
+  ]
+ }
+}
