@@ -9,11 +9,11 @@ One post per day (LinkedIn + X), one animated GIF, reused on both. Output is the
 Brand: Leadgenspot / Maruf, AI automation expert. White-to-sky gradient or near-black, blue #2E9BFF, orange accent, Inter Tight + Instrument Serif italic. Never copy another creator's layout, wording, names or numbers: use the idea, fill it with Maruf's brand and real content.
 
 ## 0. Daily flow
-1. **Morning (7:00 AM Asia/Dhaka): ask, do not build.** Check recent posts first (Buffer `list_posts` if connected, plus `gifs/` and `posts/` in the repo). Then send ONE short message: "Good morning. Today's topic?" with 3 suggestions from `topics.md` that were not used in the last 14 days (each: system name + vertical + suggested layout). Then STOP. Do not render anything until Maruf replies with a topic. If he does not reply, do nothing.
-2. **Maruf sends a topic.** Build it (sections 2-5). He may send a rough idea, a vertical, or a full system name: take the most likely reading and say which reading you took.
-3. **Show him**: the GIF (file only), LinkedIn caption, first comment, X text, and the layout + theme used. **Wait for a clear "yes, publish" or edits.** Never publish without it.
-4. **After approval**: publish through Buffer only (section 6).
-If this runs in a normal Claude chat (no Buffer, no scheduler): skip step 1, wait for the topic he types, then do 2-3 and hand him the GIF + text to post himself.
+- **7:00 AM Asia/Dhaka: a scheduled task only sends Maruf a notification** asking for today's topic (with 3 unused suggestions from `topics.md`). It builds nothing. If you are that scheduled run: check Buffer `list_posts` and the repo `gifs/` folder for recent systems, send ONE PushNotification with the question and the 3 suggestions, then STOP.
+- **Maruf then opens a Claude chat and sends the topic** (or a vertical / system name). Post generation happens only in that chat, using this skill. Take the most likely reading of the topic and say which reading you took. If he sends no topic, make nothing.
+1. Build the GIF (sections 2-4), write the caption + first comment + X text (section 5).
+2. Show him: the GIF file only, the three texts, and the layout + theme used. **Wait for a clear "yes, publish" or edits.** Never publish without it.
+3. After approval: publish through Buffer only (section 6) if Buffer is connected in that chat. If not, hand him the GIF + text to post himself.
 
 ## 1. Audience and topic rule
 Audience: online coaches (fitness, sales, business), law firms, real estate agents, construction / contractors.
